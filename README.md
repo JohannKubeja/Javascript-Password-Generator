@@ -48,4 +48,4 @@ Deployed Webpage:
 
 <h1> Screenshot </h1>
 
-<img src="Password-Generator-Screenshot.png">
+<img src="Password Generator Screenshot.png">
