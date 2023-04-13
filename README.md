@@ -47,3 +47,5 @@ THEN the password is either displayed in an alert or written to the page
 Deployed Webpage:
 
 <h1> Screenshot </h1>
+
+<img src=".png">
